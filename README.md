@@ -1,5 +1,5 @@
-# Digital waveform generation and signal acquistion for HF radar
-## using Red Pitaya v1.1
+# Digital waveform generation and signal acquistion for HF radar - Red Pitaya v1.1
+
 
 Link to data files:
 
